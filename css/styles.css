@@ -72,8 +72,8 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.header-address:hover,
-.header-address:focus {
+.header-address-list:hover,
+.header-address-list:focus {
   color: #404bbf;
 }
 
