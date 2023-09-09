@@ -64,6 +64,9 @@ ul {
 }
 
 .header-address {
+  font-style: normal;
+}
+.header-address-list {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
@@ -100,19 +103,13 @@ ul {
   background-color: #404bbf;
 }
 
-.features-title {
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  border: 0;
-  padding: 0;
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  margin: -1px;
+.our-team {
+  background-color: #f4f4fd;
 }
 
+.our-team-list {
+  background-color: #ffffff;
+}
 .footer {
   background-color: #2e2f42;
 }
